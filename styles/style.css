@@ -1,0 +1,16 @@
+.icon {
+    background: url(/images/free-icon-instagram-2111463.png) no-repeat;
+    background-size: 100px;
+    
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 20px red;
+    border-radius:1;
+}
+.icon:hover {
+    background: url(/images/free-icon-instagram-1384063\ \(1\).png) no-repeat;
+    background-size:100px;
+    width: 100px;
+    height: 100px;
+    border-radius:1;
+}
